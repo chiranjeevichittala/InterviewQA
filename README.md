@@ -1,4 +1,4 @@
-# Top Interview Question and Answersfor all programming Languages
+# Top Interview Question and Answers for all programming Languages
 
 -------------------------------------------
 Python - Top 100+ Interview Question
